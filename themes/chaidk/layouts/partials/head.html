@@ -1,0 +1,10 @@
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	{{ if eq .IsHome false}}
+	<title>{{ .Title }} | {{ .Site.Title }}</title>
+	{{ else }}
+	<title>{{ .Site.Params.Info.homeTitle }} </title>
+	{{ end }}
+	<link href="{{"css/theme.css" | relURL}}" rel="stylesheet" type="text/css" />
+</head>
