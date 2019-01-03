@@ -1,0 +1,10 @@
+{{ partial "head" . }}  
+{{ partial "nav" . }}
+<article>
+    <header id="banner">
+        <h1>{{ .Title }}</h1>
+        <p id="subtitle">{{ .Description }}</p>
+    </header>
+        {{ .Content }}
+</article>
+{{ partial "footer" . }}
