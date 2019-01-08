@@ -13,3 +13,5 @@ date: 2019-01-02T10:01:18Z
 {{% /features %}}
 
 This software package was developed as part of my PhD research and builds on the extraordinarily rich work of Assyriologists and developers at the [Open Richly Annotated Cuneiform Corpus](http://oracc.org), provided under generous open access and open source licenses. This app is currently in alpha state but source code and experimental releases are available [on Github](https://www.github.com/ckanchan/saaosx).
+
+Read the [privacy policy](./privacy/lite).
