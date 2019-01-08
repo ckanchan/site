@@ -1,7 +1,7 @@
 ---
 title: "SAAo-SX Lite Privacy Policy"
-date: 2019-01-08T22:25:26Z
 url: /software/saaosx/privacy/lite
+hidden: true
 ---
 
 [SAAo-SX](/software/saaosx/) does not collect, store, or transmit any user data whatsoever. As a content viewer, it offers no facility for the user to enter and record any personally identifiable information.
