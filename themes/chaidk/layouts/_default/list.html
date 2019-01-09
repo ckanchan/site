@@ -9,7 +9,11 @@
 			<h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
 			<p class="date-head">{{ .Date.Format "January 1, 2019" }}</p>
 			<div class="content-summary">
+				{{ if (isset .Params "description") }}
+				{{ .Description }}				
+				{{ else }}
 				{{ .Summary | plainify | safeHTML }}
+				{{ end }}
 				{{ if .Truncated }}
 				<a class="button is-link" href="{{ .Permalink }}" style="height:28px">
 					Read more
