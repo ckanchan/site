@@ -16,4 +16,6 @@ This software package was developed as part of my PhD research and builds on the
 
 [Download the latest release](https://github.com/ckanchan/SAAOSX/releases/download/0.2.1/SAAoSXLite.dmg)
 
+[{{< svg "static/MAS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saao-sx-reader-lite/id1448935535?ls=1&mt=12 "Download on the Mac App Store")
+
 Read the [privacy policy](./privacy/lite).
