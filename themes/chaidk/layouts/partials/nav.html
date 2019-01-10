@@ -1,5 +1,5 @@
 <nav class="topNav">
-        {{ $currentPage := . }}
+    {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     {{ if ne .Identifier "policies"}}
     <a class="topNav-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
