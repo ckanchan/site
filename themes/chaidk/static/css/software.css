@@ -3,7 +3,7 @@
 }
 
 #subtitle {
-font-style: italic;
+    font-style: italic;
 }
 
 #features {
@@ -17,4 +17,12 @@ figure {
 }
 figcaption {
     text-align: center
+}
+
+fieldset {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+fieldset div {
+	padding-top: 0.5rem;
 }

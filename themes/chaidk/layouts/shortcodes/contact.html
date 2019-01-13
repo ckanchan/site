@@ -1,0 +1,23 @@
+{{ $subject := .Get 0 }}
+{{ $textArea := .Get 1}}
+
+<form action="https://formspree.io/appsupport@chaidk.me" method="POST">
+    <fieldset>
+        <legend>Send a support request</legend>
+        <div>
+            <input type="hidden" name="_subject" value="{{ $subject | safeHTML }}" />
+        </div>
+        <div>
+            <label for="firstlast">Name:</label>
+            <input type="text" name="fullname" id="firstlast">
+        </div>
+        <div>
+            <label for="email">Email:</label>
+            <input type="text" name="email" id="email">
+        </div>
+        <div>
+        <textarea name="{{ $textArea | safeHTML }}" rows="4" cols="45" placeholder="Fill in your support request here"></textarea>
+        </div>
+        <div><input type="submit" value="Submit"></div>
+    </fieldset>
+</form>
