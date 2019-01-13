@@ -1,5 +1,5 @@
 ---
-title: "SAAoSX"
+title: "SAAo-SX"
 description: "Read, annotate and visualise the state correspondence of Assyria in a fast, offline interface"
 date: 2019-01-02T10:01:18Z
 additionalfooter: "Apple, the Apple logo, macOS, OSX and Mac are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc."
