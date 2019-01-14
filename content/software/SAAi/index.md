@@ -1,8 +1,8 @@
 ---
 title: "SAAi"
-description: "Read the state correspondence of Assyria offline on the iPad"
+description: "Read the state correspondence of Assyria offline on iPhone and iPad"
 date: 2019-01-13T12:16:48Z
-additionalfooter: "Apple, the Apple logo, iPad and iOS are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc."
+additionalfooter: "Apple, the Apple logo, iPhone, iPad and iOS are trademarks of Apple Inc., registered in the U.S. and other countries and regions. App Store is a service mark of Apple Inc."
 ---
 
 {{% features %}}
@@ -12,8 +12,13 @@ additionalfooter: "Apple, the Apple logo, iPad and iOS are trademarks of Apple I
 {{< imgproc info Resize "900x" >}} View detailed catalogue info... {{</ imgproc >}}
 {{< imgproc online Resize "900x" >}} ... and easily access the online Oracc.org edition {{</ imgproc >}}
 {{< imgproc keyboardShortcuts Resize "900x" >}} Full support for external keyboard shortcuts {{</ imgproc >}}
+{{< imgproc text_iPhonePlus Resize "x675" >}} Universal app which also works on iPhones {{</ imgproc >}}
 {{% /features %}}
 
 This software package was developed as part of my PhD research and builds on the extraordinarily rich work of Assyriologists and developers at the [Open Richly Annotated Cuneiform Corpus](http://oracc.org), provided under generous open access and open source licenses. This app is currently in alpha state but source code is available [on Github](https://www.github.com/ckanchan/saaosx).
 
 Read the [privacy policy](./privacy/lite).
+
+# Support
+
+{{% contact "SAAi" "SupportRequest" %}}

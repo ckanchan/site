@@ -23,4 +23,4 @@ Read the [privacy policy](./privacy/lite).
 
 # Support
 
-{{% contact "SAAo-SX" "SuppportRequest" %}}
+{{% contact "SAAo-SX" "SupportRequest" %}}
