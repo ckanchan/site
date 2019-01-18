@@ -15,11 +15,17 @@ additionalfooter: "Apple, the Apple logo, macOS, OSX and Mac are trademarks of A
 
 This software package was developed as part of my PhD research and builds on the extraordinarily rich work of Assyriologists and developers at the [Open Richly Annotated Cuneiform Corpus](http://oracc.org), provided under generous open access and open source licenses. This app is currently in alpha state but source code and experimental releases are available [on Github](https://www.github.com/ckanchan/saaosx).
 
-[Download the latest release](https://github.com/ckanchan/SAAOSX/releases/download/0.2.1/SAAoSXLite.dmg)
+# Download
 
-[{{< svg "static/MAS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saao-sx-reader-lite/id1448935535?ls=1&mt=12 "Download on the Mac App Store")
+[Download the latest release](https://github.com/ckanchan/SAAOSX/releases/download/0.2.3/SAAo-SXLite.dmg)
 
-Read the [privacy policy](./privacy/lite).
+[{{< svg "static/MAS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saao-sx-reader-lite/id1448935535?ls=1&mt=12 "Download from the Mac App Store")
+
+# Docs
+
+Read the [manual](/manuals/saaosx/index.html)
+
+Read the [privacy policy](./privacy/lite)
 
 # Support
 

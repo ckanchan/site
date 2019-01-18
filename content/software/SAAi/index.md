@@ -17,6 +17,12 @@ additionalfooter: "Apple, the Apple logo, iPhone, iPad and iOS are trademarks of
 
 This software package was developed as part of my PhD research and builds on the extraordinarily rich work of Assyriologists and developers at the [Open Richly Annotated Cuneiform Corpus](http://oracc.org), provided under generous open access and open source licenses. This app is currently in alpha state but source code is available [on Github](https://www.github.com/ckanchan/saaosx).
 
+# Download
+
+[{{< svg "static/iOS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saai-reader-lite/id1449374848?ls=1&mt=8 "Download on the iOS App Store")
+
+# Docs
+
 Read the [privacy policy](./privacy/lite).
 
 # Support
