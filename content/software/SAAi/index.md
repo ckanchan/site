@@ -19,7 +19,7 @@ This software package was developed as part of my PhD research and builds on the
 
 # Download
 
-[{{< svg "static/iOS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saai-reader-lite/id1449374848?ls=1&mt=8 "Download on the iOS App Store")
+[{{< svg "static/iOS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/saai-reader-lite/id1449374848?ls=1&mt=8 "Download from the iOS App Store")
 
 # Docs
 
