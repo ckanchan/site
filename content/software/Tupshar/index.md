@@ -18,6 +18,8 @@ Tupshar is a document editing app designed to make it easier to compose and edit
 
 [Download the latest release](https://github.com/ckanchan/Tupshar/releases/download/0.4.1-beta/Tupshar.dmg)
 
+[{{< svg "static/MAS_US-UK_RGB_blk_092917.svg" >}}](https://itunes.apple.com/us/app/tupshar/id1454287764 "Download from the Mac App Store")
+
 # Docs
 
 Read the [manual](/manuals/tupshar/index.html)
