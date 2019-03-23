@@ -2,6 +2,7 @@
 {{ partial "nav" . }}
 <article>
     <header id="banner">
+        <img src="{{ (.Resources.GetMatch "icon.png").RelPermalink }}" width="72"/>
         <h1>{{ .Title }}</h1>
         <p id="subtitle">{{ .Description }}</p>
     </header>

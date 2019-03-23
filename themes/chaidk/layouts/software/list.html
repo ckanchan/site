@@ -6,6 +6,9 @@
 	<div class="container">	
 		{{ range .Pages}}
 		<section class="list-entry">
+				{{ if (.Resources.GetMatch "icon.png")}}
+				<img class="appicon" src="{{ (.Resources.GetMatch "icon.png").RelPermalink }}" width="72"/>
+				{{ end }}
 			<h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
 			<div class="content-summary">
 				{{ .Description | plainify }}

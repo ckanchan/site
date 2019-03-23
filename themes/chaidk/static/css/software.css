@@ -1,5 +1,10 @@
 #banner {
-    text-align: right;
+    text-align: left;
+}
+
+#banner img {
+    float: left;    
+    margin-right: 1em;
 }
 
 #subtitle {
