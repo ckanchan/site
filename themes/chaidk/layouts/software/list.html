@@ -5,15 +5,15 @@
 	</div>
 	<div class="container">	
 		{{ range .Pages}}
-		<article>
+		<section class="list-entry">
 			<h1 class="title"><a href="{{ .Permalink }}">{{ .Title }}</a>{{ if .Draft }} ::Draft{{ end }}</h1>
 			<div class="content-summary">
 				{{ .Description | plainify }}
 				<a class="button is-link" href="{{ .Permalink }}" style="height:28px">
-					Read more
+					>>
 				</a>
 			</div>
-		</article>
+		</section>
 		{{ end }}
 	</div>
 </section>

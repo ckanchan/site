@@ -1,5 +1,5 @@
 #banner {
-    text-align: center;
+    text-align: right;
 }
 
 #subtitle {
@@ -10,6 +10,19 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin: 2rem;
+}
+
+figure {
+    background-color: rgba(43, 74, 74, 0.324);
+    padding: 1rem;
+}
+
+@media screen and (max-width: 960px) {
+    #features {
+        display: grid;
+        grid-template-columns: 1fr;
+        margin: 2rem;
+    }
 }
 
 figure {
@@ -24,5 +37,5 @@ fieldset {
     margin-right: 3rem;
 }
 fieldset div {
-	padding-top: 0.5rem;
+    padding-top: 0.5rem;
 }
