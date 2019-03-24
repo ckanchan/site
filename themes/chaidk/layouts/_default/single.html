@@ -1,13 +1,13 @@
 {{ partial "head" . }}  
 {{ partial "nav" . }}
 {{ partial "header" .}}
-<section class="section">
-  {{if not .Date.IsZero }}<h2 class="subtitle is-6">{{ .Date.Format "January 1, 2019" }}</h2>{{ end }}
+<section class="metadata">
+  {{if not .Date.IsZero }}<h2 class="date">{{ .Date.Format "January 2, 2006" }}</h2>{{ end }}
   {{ if .Params.tags }}
   {{ partial "tags" .Params.tags }}
   {{ end }}
+</section>
   <article>
     {{ .Content }}
   </article>
-</section>
 {{ partial "footer" . }}
