@@ -28,6 +28,14 @@ figure {
         grid-template-columns: 1fr;
         margin: 2rem;
     }
+
+    fieldset {
+            margin-left: 1rem;
+            margin-right: 1rem;
+        }
+        textarea {
+            max-width: 200px;
+        }
 }
 
 figure {
