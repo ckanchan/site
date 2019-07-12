@@ -11,3 +11,10 @@ name = "CDK"
 title = "home"
 url = "/"
 weight = 100
+
+[[menu.main]]
+identifier = "development"
+name = "Development"
+title = "development"
+url = "/tags/development"
+weight = 0
